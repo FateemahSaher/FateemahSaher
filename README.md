@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FateemahSaher
-- 👀 I’m interested in Codind...
+- 👀 I’m interested in Coding....
 - 🌱 I’m currently learning Software Engineering with some extra course of graphic designing etc.
 - 💞️ I’m looking to collaborate on
 - Open-source projects related to web development.
